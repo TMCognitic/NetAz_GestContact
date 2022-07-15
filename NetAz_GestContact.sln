@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetAz_GestContact", "NetAz_GestContact\NetAz_GestContact.csproj", "{C0CED223-EA65-49AE-9541-8A489B8B78CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools.Database", "Tools.Database\Tools.Database.csproj", "{2035E65E-5886-4793-91CE-BFD08548D151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Mvvm", "Tools.Mvvm\Tools.Mvvm.csproj", "{711CBD55-D39F-4C57-9C04-C6D7AF03ED21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetAz_GestionContact.ViewModels", "NetAz_GestionContact.ViewModels\NetAz_GestionContact.ViewModels.csproj", "{58EC6050-E3CC-40B3-A42B-68949D7386F5}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "NetAz_GestContact.Database", "NetAz_GestContact.Database\NetAz_GestContact.Database.sqlproj", "{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetAz_GestionContact.Models", "NetAz_GestionContact.Models\NetAz_GestionContact.Models.csproj", "{5D2DDA51-5318-4A20-BECC-D6029BAC7D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0CED223-EA65-49AE-9541-8A489B8B78CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CED223-EA65-49AE-9541-8A489B8B78CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CED223-EA65-49AE-9541-8A489B8B78CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CED223-EA65-49AE-9541-8A489B8B78CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2035E65E-5886-4793-91CE-BFD08548D151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2035E65E-5886-4793-91CE-BFD08548D151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2035E65E-5886-4793-91CE-BFD08548D151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2035E65E-5886-4793-91CE-BFD08548D151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711CBD55-D39F-4C57-9C04-C6D7AF03ED21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711CBD55-D39F-4C57-9C04-C6D7AF03ED21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711CBD55-D39F-4C57-9C04-C6D7AF03ED21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711CBD55-D39F-4C57-9C04-C6D7AF03ED21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EC6050-E3CC-40B3-A42B-68949D7386F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EC6050-E3CC-40B3-A42B-68949D7386F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EC6050-E3CC-40B3-A42B-68949D7386F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EC6050-E3CC-40B3-A42B-68949D7386F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB49480-51C4-4DB0-9ED0-508A9C084E6A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5D2DDA51-5318-4A20-BECC-D6029BAC7D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2DDA51-5318-4A20-BECC-D6029BAC7D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2DDA51-5318-4A20-BECC-D6029BAC7D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2DDA51-5318-4A20-BECC-D6029BAC7D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3641989-E6C2-4C83-8467-52AE9F38C981}
+	EndGlobalSection
+EndGlobal
